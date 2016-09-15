@@ -1,0 +1,56 @@
+{
+  "name": "gulp-version-html-imports",
+  "version": "0.2.0",
+  "description": "Set version on all html imports.",
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "gulp-rev-append",
+    "cache-busting",
+    "cache",
+    "revision",
+    "version",
+    "versioning"
+  ],
+  "author": {
+    "name": "Alexander Kureniov",
+    "contributor": "Robert Bjarnason"
+  },
+  "email": "s@zxc.pp.ua",
+  "url": "https://github.com/SkeLLLa",
+  "main": "index.js",
+  "dependencies": {
+    "app-root-path": "^1.0.0",
+    "event-stream": "^3.3.2",
+    "gulp-util": "^3.0.7"
+  },
+  "devDependencies": {
+    "gulp": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkeLLLa/gulp-version-append.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SkeLLLa/gulp-version-append/issues"
+  },
+  "homepage": "https://github.com/SkeLLLa/gulp-version-append",
+  "directories": {
+    "example": "example"
+  },
+  "maintainers": [
+    {
+      "name": "Robert Bjarnason",
+      "email": "robert@citizens.is"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-13-west.internal.npmjs.com",
+    "tmp": "tmp/gulp-version-append-0.2.0.tgz_1458811407953_0.37007619719952345"
+  },
+  "readme": "ERROR: No README data found!"
+}
