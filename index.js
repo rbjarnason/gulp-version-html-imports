@@ -6,7 +6,7 @@ var gutil = require('gulp-util'),
 
 	defaults = {
 		versionRegex: function (extensions) {
-			var regexString = '.html"';
+			var regexString = '[.]html"';
 			return new RegExp(regexString, 'ig');
 		}
 	},
